@@ -1,0 +1,10 @@
+D:\VVV\Question4\Question4\obj\Debug\Question4.csproj.AssemblyReference.cache
+D:\VVV\Question4\Question4\obj\Debug\Question4.Form1.resources
+D:\VVV\Question4\Question4\obj\Debug\Question4.Properties.Resources.resources
+D:\VVV\Question4\Question4\obj\Debug\Question4.csproj.GenerateResource.cache
+D:\VVV\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+D:\VVV\Question4\Question4\bin\Debug\Question4.exe.config
+D:\VVV\Question4\Question4\bin\Debug\Question4.exe
+D:\VVV\Question4\Question4\bin\Debug\Question4.pdb
+D:\VVV\Question4\Question4\obj\Debug\Question4.exe
+D:\VVV\Question4\Question4\obj\Debug\Question4.pdb
