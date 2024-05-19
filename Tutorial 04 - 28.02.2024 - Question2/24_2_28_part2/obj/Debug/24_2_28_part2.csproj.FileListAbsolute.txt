@@ -1,0 +1,10 @@
+D:\VVV\24_2_28_part2\24_2_28_part2\bin\Debug\24_2_28_part2.exe.config
+D:\VVV\24_2_28_part2\24_2_28_part2\bin\Debug\24_2_28_part2.exe
+D:\VVV\24_2_28_part2\24_2_28_part2\bin\Debug\24_2_28_part2.pdb
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\24_2_28_part2.csproj.AssemblyReference.cache
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\_24_2_28_part2.Form1.resources
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\_24_2_28_part2.Properties.Resources.resources
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\24_2_28_part2.csproj.GenerateResource.cache
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\24_2_28_part2.csproj.CoreCompileInputs.cache
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\24_2_28_part2.exe
+D:\VVV\24_2_28_part2\24_2_28_part2\obj\Debug\24_2_28_part2.pdb
