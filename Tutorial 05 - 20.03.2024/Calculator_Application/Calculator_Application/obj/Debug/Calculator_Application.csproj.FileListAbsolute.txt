@@ -1,0 +1,10 @@
+D:\VSC\Calculator_Application\Calculator_Application\bin\Debug\Calculator_Application.exe.config
+D:\VSC\Calculator_Application\Calculator_Application\bin\Debug\Calculator_Application.exe
+D:\VSC\Calculator_Application\Calculator_Application\bin\Debug\Calculator_Application.pdb
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.csproj.AssemblyReference.cache
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.Form1.resources
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.csproj.GenerateResource.cache
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.csproj.CoreCompileInputs.cache
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.exe
+D:\VSC\Calculator_Application\Calculator_Application\obj\Debug\Calculator_Application.pdb
